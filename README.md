@@ -134,15 +134,15 @@ output variables, node hierarchy, and node execution by condition flow :
     └── Node 27, Condition: , Expression: , Text: M30 
 
 🚀 Node Execution by Condition Flow:
-	name:Node 1	 	command:
-	name:Node 2	 	command:
-	name:Node 3	 	command:
-	name:Node 4	 	command:
-	name:Node 5	 	command:G0 X0 Y0 Z0 
-	name:Node 6	 	command:<subroutine.txt> 
-	name:Node 7	 	command:Topology file node.
-	name:Node 8	 	command:M3 
-	name:Node 9		command:G0 X1.5 Y1.5 Z8.0 
+	name:Node 1	command:
+	name:Node 2	command:
+	name:Node 3	command:
+	name:Node 4	command:
+	name:Node 5	command:G0 X0 Y0 Z0 
+	name:Node 6	command:<subroutine.txt> 
+	name:Node 7	command:Topology file node.
+	name:Node 8	command:M3 
+	name:Node 9	command:G0 X1.5 Y1.5 Z8.0 
 	name:Node 10	command:G0 X0.000 Y0.000 Z10 
 	name:Node 11	command:G1 X5.000 Y5.000 Z25 
 	name:Node 12	command:M5 
